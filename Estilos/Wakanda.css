@@ -1,0 +1,148 @@
+h1{
+    text-align: center;
+    font-size: 3.7em;
+}
+p{
+    text-align: justify-all;
+    font-size: 1.7em;
+}
+h2{
+     color: darkmagenta;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3em;
+    font-style: italic;
+    font-weight: lighter;
+}
+#Wakanda{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    display: ridge;
+    border-color: darkorange;
+}
+#Mapa{
+    float:left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: ridge;
+    border-color: darkorange;
+}
+.Tribu1{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.Tribu2{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.Tribu3{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.Tribu4{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.Tribu5{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.Tribu6{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#dora{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#pelea{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#tropicos{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#vegetacion{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#flor{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#tec{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#cul{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+#gorila{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+ul{
+    text-align: justify-all;
+    font-size: 1.7em;
+}

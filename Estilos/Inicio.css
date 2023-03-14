@@ -1,0 +1,15 @@
+h1{
+    text-align: justify;
+    font-size: 3.7em;
+}
+#imagen{
+    display: inline-block;
+    float: right;
+}
+figcaption{
+    text-align: right;
+}
+p{
+    text-align: justify-all;
+    font-size: 2.7em;
+}

@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    font-size: 3.7em;
+    color: darkmagenta;
+}
+h2{
+    text-align: center;
+    font-size: 3em;
+    color: darkmagenta;
+}
+h3{
+    text-align: center;
+    font-size: 3em;
+    color: darkmagenta;
+}
+h5{
+    font-size: 2em;
+}
+p{
+    text-align: justify-all;
+    font-size: 1.7em;
+    font-style: normal;
+}
+p2{
+    text-align: justify-all;
+    font-size: 1.7em;
+    font-style: normal;
+}
+p3{
+    text-align:justify-all;
+    font-size: 1.7em;
+    font-style: normal;
+}
+p4{
+    text-align: justify-all;
+    font-size: 1.7em;
+    font-style: normal;
+}
+nav{
+    clear: both;
+}
+ul{
+   width: 100%;
+    text-align: justify-all;
+}
+.diosa{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.traje{
+    float: left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}
+.black{
+    float: right;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: groove;
+    border-color: orange;
+}

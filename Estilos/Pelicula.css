@@ -1,0 +1,24 @@
+h1{
+    text-align: justify;
+    font-size: 3.7em;
+}
+h2{
+    color: darkmagenta;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 3em;
+    font-style: italic;
+    font-weight: lighter;
+}
+figure{
+    float:left;
+    padding: 6px;
+    margin: 8px;
+    border: dashed;
+    border-style: ridge;
+    border-color: darkorange;
+}
+p{
+    text-align:justify-all;
+    font-size: 1.7em;
+}

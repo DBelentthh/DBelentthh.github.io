@@ -1,0 +1,49 @@
+header{
+    border: double;
+    display: inline-block;
+    background-image: url(pantera2.0.png);
+    background-repeat: no-repeat;
+    width: 94%;
+    padding: 45px;
+    text-align: right;
+    background-color: orange;
+}
+h1{
+    display:inline-block;
+    width: 40%;
+   text-align: center;
+    font-size: 2.6em;
+}
+body{
+  background: rgb(242,131,147);
+background: linear-gradient(90deg, rgba(242,131,147,1) 5%, rgba(242,142,11,1) 50%, rgba(123,0,255,1) 96%);
+}
+nav{
+    clear: both;
+}
+ul{
+   width: 100%;
+    text-align: center;
+}
+.links{
+    display: inline-block;
+    width: 15%;
+    font-size: 20px; 
+    padding: 10px;
+    background-color: orange;
+    text-align: center;
+    border: solid;
+    border-color: black;
+}
+iframe{
+    display: inline-block;
+    border-color: black;
+}
+footer{
+    background-color: #8F50E0;
+    font-size: 1.3em;
+}
+.url{
+    text-align: left;
+    font-size: 1.3em;
+}

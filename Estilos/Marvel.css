@@ -1,0 +1,36 @@
+figure{
+    float:left;
+    display: inline-block;
+    width: 30%;
+}
+h1{
+    color: rojo;
+    background-color: coral;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 2.5em;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: overline;
+}
+ul{
+   width: 100%;
+    text-align: center;
+}
+
+.audio{
+    display: inline-block;
+    width: 15%;
+    font-size: 20px; 
+    padding: 10px;
+    background-color: orange;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    font-size: 1.5em;
+}
+iframe{
+    display:inline-block;
+    width: 64%;
+   text-align: center;
+}
